@@ -30,5 +30,8 @@
 // console.log(12*12)
 
 //8 print the type of a variable holding the value true
+// var a = true;
+// (typeof a)
+
 var a = true;
 (typeof a)
