@@ -33,5 +33,7 @@
 // var a = true;
 // (typeof a)
 
-var a = true;
-(typeof a)
+// var a = true;
+// (typeof a)
+
+console.log(12*12)
