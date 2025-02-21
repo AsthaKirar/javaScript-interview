@@ -36,4 +36,9 @@
 // var a = true;
 // (typeof a)
 
-console.log(12*12)
+// console.log(12*12)
+
+var a = 12;
+console.log(a);
+a=32;
+console.log(a);
